@@ -1,0 +1,2000 @@
+1. The Shawshank Redemption (1994)
+Drama
+2. Daeboo (1972)
+Crime, Drama
+3. The Dark Knight (2008)
+Action, Crime, Drama
+4. The Godfather: Part II (1974)
+Crime, Drama
+5. Pulp Fiction (1994)
+Crime, Drama
+6. Schindler's List (1993)
+Biography, Drama, History
+7. The Lord of the Rings: The Return of the King (2003)
+Action, Adventure, Drama
+8. 12 Angry Men (1957)
+Crime, Drama
+9. Il buono, il brutto, il cattivo (1966)
+Western
+10. Inception (2010)
+Action, Adventure, Sci-Fi
+11. The Lord of the Rings: The Fellowship of the Ring (2001)
+Adventure, Drama, Fantasy
+12. Fight Club (1999)
+Drama
+13. Forrest Gump (1994)
+Drama, Romance
+14. Star Wars: Episode V - The Empire Strikes Back (1980)
+Action, Adventure, Fantasy
+15. Goodfellas (1990)
+Crime, Drama
+16. The Matrix (1999)
+Action, Sci-Fi
+17. One Flew Over the Cuckoo's Nest (1975)
+Drama
+18. The Lord of the Rings: The Two Towers (2002)
+Adventure, Drama, Fantasy
+19. Shichinin no samurai (1954)
+Adventure, Drama
+20. Avengers: Infinity War (2018)
+Action, Adventure, Fantasy
+21. Interstellar (2014)
+Adventure, Drama, Sci-Fi
+22. Star Wars (1977)
+Action, Adventure, Fantasy
+23. Léon (1994)
+Crime, Drama, Thriller
+24. The Silence of the Lambs (1991)
+Crime, Drama, Thriller
+25. Se7en (1995)
+Crime, Drama, Mystery
+26. Saving Private Ryan (1998)
+Drama, War
+27. The Usual Suspects (1995)
+Crime, Mystery, Thriller
+28. Sen to Chihiro no kamikakushi (2001)
+Animation, Adventure, Family
+29. Cidade de Deus (2002)
+Crime, Drama
+30. La vita è bella (1997)
+Comedy, Drama, Romance
+31. It's a Wonderful Life (1946)
+Drama, Family, Fantasy
+32. City Lights (1931)
+Comedy, Drama, Romance
+33. The Departed (2006)
+Crime, Drama, Thriller
+34. Back to the Future (1985)
+Adventure, Comedy, Sci-Fi
+35. Gladiator (2000)
+Action, Adventure, Drama
+36. Alien (1979)
+Horror, Sci-Fi
+37. Whiplash (2014)
+Drama, Music
+38. The Prestige (2006)
+Drama, Mystery, Sci-Fi
+39. The Lion King (1994)
+Animation, Adventure, Drama
+40. Apocalypse Now (1979)
+Drama, War
+41. Psycho (1960)
+Horror, Mystery, Thriller
+42. The Green Mile (1999)
+Crime, Drama, Fantasy
+43. Terminator 2: Judgment Day (1991)
+Action, Sci-Fi
+44. Raiders of the Lost Ark (1981)
+Action, Adventure
+45. American History X (1998)
+Crime, Drama
+46. Memento (2000)
+Mystery, Thriller
+47. The Intouchables (2011)
+Biography, Comedy, Drama
+48. Once Upon a Time in the West (1968)
+Western
+49. The Pianist (2002)
+Biography, Drama, Music
+50. Casablanca (1942)
+Drama, Romance, War
+51. Rear Window (1954)
+Mystery, Thriller
+52. Dangal (2016)
+Action, Biography, Drama
+53. Nuovo Cinema Paradiso (1988)
+Drama
+54. Hotaru no haka (1988)
+Animation, Drama, War
+55. Sunset Blvd. (1950)
+Drama, Film-Noir
+56. Modern Times (1936)
+Comedy, Drama, Family
+57. The Great Dictator (1940)
+Comedy, Drama, War
+58. Coco (I) (2017)
+Animation, Adventure, Comedy
+59. Dakeu naiteu raijeu (2012)
+Action, Thriller
+60. The Shining (1980)
+Drama, Horror
+61. Django Unchained (2012)
+Drama, Western
+62. American Beauty (1999)
+Drama
+63. Aliens (1986)
+Action, Adventure, Sci-Fi
+64. Braveheart (1995)
+Biography, Drama, History
+65. Kimi no na wa. (2016)
+Animation, Drama, Fantasy
+66. Oldeuboi (2003)
+Action, Drama, Mystery
+67. Once Upon a Time in America (1984)
+Crime, Drama
+68. The Lives of Others (2006)
+Drama, Thriller
+69. 3 Idiots (2009)
+Comedy, Drama
+70. Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964)
+Comedy
+71. WALL·E (2008)
+Animation, Adventure, Family
+72. Citizen Kane (1941)
+Drama, Mystery
+73. Mononoke-hime (1997)
+Animation, Adventure, Fantasy
+74. Das Boot (1981)
+Adventure, Drama, Thriller
+75. Taare Zameen Par (2007)
+Drama, Family
+76. M - Eine Stadt sucht einen Mörder (1931)
+Crime, Mystery, Thriller
+77. Paths of Glory (1957)
+Drama, War
+78. Witness for the Prosecution (1957)
+Crime, Drama, Mystery
+79. Babam ve Oglum (2005)
+Drama
+80. Baahubali 2: The Conclusion (2017)
+Action, Drama, Fantasy
+81. Inglourious Basterds (2009)
+Adventure, Drama, War
+82. Taxi Driver (1976)
+Crime, Drama
+83. Scarface (1983)
+Crime, Drama
+84. Requiem for a Dream (2000)
+Drama
+85. Metal jaket (1987)
+Drama, War
+86. A Clockwork Orange (1971)
+Crime, Drama, Sci-Fi
+87. Eternal Sunshine of the Spotless Mind (2004)
+Drama, Romance, Sci-Fi
+88. 2001: A Space Odyssey (1968)
+Adventure, Sci-Fi
+89. Batman Begins (2005)
+Action, Adventure
+90. Good Will Hunting (1997)
+Drama
+91. Snatch (2000)
+Comedy, Crime
+92. Reservoir Dogs (1992)
+Crime, Drama, Thriller
+93. To Kill a Mockingbird (1962)
+Crime, Drama
+94. Star Wars: Episode VI - Return of the Jedi (1983)
+Action, Adventure, Fantasy
+95. Indiana Jones and the Last Crusade (1989)
+Action, Adventure, Fantasy
+96. Up (2009)
+Animation, Adventure, Comedy
+97. Toy Story (1995)
+Animation, Adventure, Comedy
+98. L.A. Confidential (1997)
+Crime, Drama, Mystery
+99. Jagten (2012)
+Drama
+100. Amélie (2001)
+Comedy, Romance
+101. Lawrence of Arabia (1962)
+Adventure, Biography, Drama
+102. Amadeus (1984)
+Biography, Drama, History
+103. Toy Story 3 (2010)
+Animation, Adventure, Comedy
+104. Monty Python and the Holy Grail (1975)
+Adventure, Comedy, Fantasy
+105. Hyeonghijeung (1958)
+Mystery, Romance, Thriller
+106. The Sting (1973)
+Comedy, Crime, Drama
+107. Metropolis (1927)
+Drama, Sci-Fi
+108. Some Like It Hot (1959)
+Comedy, Romance
+109. Singin' in the Rain (1952)
+Comedy, Musical, Romance
+110. North by Northwest (1959)
+Adventure, Mystery, Thriller
+111. Jodaeiye Nader az Simin (2011)
+Crime, Drama, Family
+112. Per qualche dollaro in più (1965)
+Western
+113. The Apartment (1960)
+Comedy, Drama, Romance
+114. Sanju (2018)
+Biography, Drama
+115. Mandariinid (2013)
+Drama, War
+116. Eveeui Modeun Gut (1950)
+Drama
+117. Double Indemnity (1944)
+Crime, Drama, Film-Noir
+118. Rashômon (1950)
+Crime, Drama, Mystery
+119. Bacheha-Ye aseman (1997)
+Drama, Family
+120. Ladri di biciclette (1948)
+Drama
+121. Drishyam (2015)
+Crime, Drama, Thriller
+122. The Treasure of the Sierra Madre (1948)
+Adventure, Drama, Western
+123. The Kid (1921)
+Comedy, Drama, Family
+124. Yôjinbô (1961)
+Action, Drama, Thriller
+125. Ikiru (1952)
+Drama
+126. Eskiya (1996)
+Crime, Drama, Thriller
+127. Swades: We, the People (2004)
+Drama
+128. Queen (2013)
+Comedy, Drama
+129. Three Billboards Outside Ebbing, Missouri (2017)
+Comedy, Crime, Drama
+130. Room (I) (2015)
+Drama, Thriller
+131. The Wolf of Wall Street (2013)
+Biography, Comedy, Crime
+132. A Beautiful Mind (2001)
+Biography, Drama
+133. Blade Runner (1982)
+Sci-Fi, Thriller
+134. Die Hard (1988)
+Action, Thriller
+135. Heat (1995)
+Crime, Drama, Thriller
+136. Inside Out (I) (2015)
+Animation, Adventure, Comedy
+137. Unforgiven (1992)
+Drama, Western
+138. Trainspotting (1996)
+Drama
+139. Pan's Labyrinth (2006)
+Drama, Fantasy, War
+140. Warrior (2011)
+Drama, Sport
+141. V for Vendetta (2005)
+Action, Drama, Sci-Fi
+142. Gone with the Wind (1939)
+Drama, History, Romance
+143. Chinatown (1974)
+Drama, Mystery, Thriller
+144. Lock, Stock and Two Smoking Barrels (1998)
+Comedy, Crime
+145. Casino (1995)
+Crime, Drama
+146. The Great Escape (1963)
+Adventure, Drama, History
+147. Der Untergang (2004)
+Biography, Drama, History
+148. Incendies (2010)
+Drama, Mystery, War
+149. Howlui umjikineun seong (2004)
+Animation, Adventure, Family
+150. El Sikeuleto: Bimil-ui Nundongja (2009)
+Drama, Mystery, Romance
+151. Raging Bull (1980)
+Biography, Drama, Sport
+152. The Elephant Man (1980)
+Biography, Drama
+153. Tonari no Totoro (1988)
+Animation, Family, Fantasy
+154. PK (2014)
+Comedy, Drama
+155. Idi i smotri (1985)
+Drama, War
+156. Gangs of Wasseypur (2012)
+Action, Comedy, Crime
+157. The Third Man (1949)
+Film-Noir, Mystery, Thriller
+158. Dial M for Murder (1954)
+Crime, Thriller
+159. Det sjunde inseglet (1957)
+Drama, Fantasy
+160. On the Waterfront (1954)
+Crime, Drama, Thriller
+161. The Bridge on the River Kwai (1957)
+Adventure, Drama, War
+162. Kis Uykusu (2014)
+Drama
+163. Judgment at Nuremberg (1961)
+Drama, War
+164. Ran (1985)
+Action, Drama
+165. Andrei Rublev (1966)
+Biography, Drama, History
+166. A Wednesday (2008)
+Crime, Drama, Mystery
+167. Rang De Basanti (2006)
+Comedy, Drama
+168. Smultronstället (1957)
+Drama, Romance
+169. Mr. Smith Goes to Washington (1939)
+Comedy, Drama
+170. The Message (1976)
+Adventure, Biography, Drama
+171. Tôkyô monogatari (1953)
+Drama
+172. Sunrise: A Song of Two Humans (1927)
+Drama, Romance
+173. Ookami kodomo no Ame to Yuki (2012)
+Animation, Drama, Family
+174. Bahubali: The Beginning (2015)
+Action, Drama, Fantasy
+175. La passion de Jeanne d'Arc (1928)
+Biography, Drama, History
+176. The General (1926)
+Action, Adventure, Comedy
+177. Haider (2014)
+Action, Crime, Drama
+178. Dil Chahta Hai (2001)
+Comedy, Drama, Romance
+179. The Gold Rush (1925)
+Adventure, Comedy, Drama
+180. Kahaani (2012)
+Mystery, Thriller
+181. Sherlock Jr. (1924)
+Action, Comedy, Romance
+182. Black (2005)
+Drama
+183. Dilwale Dulhania Le Jayenge (1995)
+Comedy, Drama, Musical
+184. Paan Singh Tomar (2012)
+Action, Biography, Crime
+185. Pink (III) (2016)
+Drama
+186. Bhaag Milkha Bhaag (2013)
+Biography, Drama, Sport
+187. Chak De! India (2007)
+Drama, Family, Sport
+188. Sholay (1975)
+Action, Adventure, Comedy
+189. OMG: Oh My God! (2012)
+Comedy, Drama
+190. Udaan (2010)
+Drama
+191. Munna Bhai M.B.B.S. (2003)
+Comedy, Drama, Musical
+192. Hera Pheri (2000)
+Action, Comedy, Crime
+193. Andaz Apna Apna (1994)
+Comedy, Family, Romance
+194. Nefes: Vatan Sagolsun (2009)
+Action, Drama, Thriller
+195. Mission: Impossible - Fallout (2018)
+Action, Adventure, Thriller
+196. Incredibles 2 (2018)
+Animation, Action, Adventure
+197. Blade Runner 2049 (2017)
+Drama, Mystery, Sci-Fi
+198. Guardians of the Galaxy (2014)
+Action, Adventure, Comedy
+199. Jyuragi gongwon (1993)
+Adventure, Sci-Fi, Thriller
+200. Gone Girl (2014)
+Crime, Drama, Mystery
+201. The Avengers (2012)
+Action, Adventure, Sci-Fi
+202. Logan (2017)
+Action, Drama, Sci-Fi
+203. The Princess Bride (1987)
+Adventure, Family, Fantasy
+204. No Country for Old Men (2007)
+Crime, Drama, Thriller
+205. Mad Max: Fury Road (2015)
+Action, Adventure, Sci-Fi
+206. Haeri Poteowa jugeumui seongmul - 2bu (2011)
+Adventure, Drama, Fantasy
+207. La La Land (I) (2016)
+Comedy, Drama, Music
+208. Prisoners (2013)
+Crime, Drama, Mystery
+209. The Help (2011)
+Drama
+210. Hacksaw Ridge (2016)
+Biography, Drama, History
+211. Spotlight (I) (2015)
+Crime, Drama, History
+212. Shutter Island (2010)
+Mystery, Thriller
+213. The Big Lebowski (1998)
+Comedy, Crime
+214. The Truman Show (1998)
+Comedy, Drama, Sci-Fi
+215. Kill Bill: Vol. 1 (2003)
+Action, Crime, Thriller
+216. The Grand Budapest Hotel (2014)
+Adventure, Comedy, Drama
+217. Donnie Darko (2001)
+Drama, Sci-Fi, Thriller
+218. Platoon (1986)
+Drama, War
+219. Stand by Me (1986)
+Adventure, Drama
+220. Into the Wild (2007)
+Adventure, Biography, Drama
+221. The Thing (1982)
+Horror, Mystery, Sci-Fi
+222. Fargo (1996)
+Crime, Drama, Thriller
+223. The Sixth Sense (1999)
+Drama, Mystery, Thriller
+224. There Will Be Blood (2007)
+Drama
+225. Rocky (1976)
+Drama, Sport
+226. 12 Years a Slave (2013)
+Biography, Drama, History
+227. Contratiempo (2016)
+Crime, Mystery, Thriller
+228. Catch Me If You Can (2002)
+Biography, Crime, Drama
+229. Dead Poets Society (1989)
+Comedy, Drama
+230. Ahgassi (2016)
+Drama, Romance, Thriller
+231. Monsters, Inc. (2001)
+Animation, Adventure, Comedy
+232. Lion (2016)
+Biography, Drama
+233. Million Dollar Baby (2004)
+Drama, Sport
+234. Finding Nemo (2003)
+Animation, Adventure, Comedy
+235. The Deer Hunter (1978)
+Drama, War
+236. Gran Torino (2008)
+Drama
+237. How to Train Your Dragon (2010)
+Animation, Action, Adventure
+238. Rush (I) (2013)
+Action, Biography, Drama
+239. Waildeu Teiljeu: Cham-eul Su Eobsneun Sungan (2014)
+Comedy, Drama, Thriller
+240. Butch Cassidy and the Sundance Kid (1969)
+Biography, Crime, Drama
+241. Before Sunrise (1995)
+Drama, Romance
+242. Stalker (1979)
+Drama, Sci-Fi
+243. Barry Lyndon (1975)
+Adventure, Drama, History
+244. Akira (1988)
+Animation, Action, Drama
+245. Hachi: A Dog's Tale (2009)
+Drama, Family
+246. Faa yeung nin wa (2000)
+Drama, Romance
+247. Life of Brian (1979)
+Comedy
+248. In the Name of the Father (1993)
+Biography, Drama
+249. Cool Hand Luke (1967)
+Crime, Drama
+250. Touch of Evil (1958)
+Crime, Drama, Film-Noir
+251. Out of the Past (1947)
+Crime, Drama, Film-Noir
+252. Persona (1966)
+Drama, Thriller
+253. Before Sunset (2004)
+Drama, Romance
+254. Ben-Hur (1959)
+Adventure, Drama, History
+255. Hotel Rwanda (2004)
+Biography, Drama, History
+256. Network (1976)
+Drama
+257. Mommy (I) (2014)
+Drama
+258. Solaris (1971)
+Drama, Mystery, Sci-Fi
+259. Salinui chueok (2003)
+Action, Crime, Drama
+260. Paris, Texas (1984)
+Drama
+261. Rebecca (1940)
+Drama, Mystery, Romance
+262. Amores perros (2000)
+Drama, Thriller
+263. Gandhi (1982)
+Biography, Drama, History
+264. La dolce vita (1960)
+Comedy, Drama
+265. La haine (1995)
+Crime, Drama
+266. Mary and Max (2009)
+Animation, Comedy, Drama
+267. The Last Picture Show (1971)
+Drama
+268. Roman Holiday (1953)
+Comedy, Romance
+269. 8gwa 1/2 (1963)
+Drama
+270. What Ever Happened to Baby Jane? (1962)
+Drama, Horror, Thriller
+271. Kaze no tani no Naushika (1984)
+Animation, Adventure, Fantasy
+272. Chung Hing sam lam (1994)
+Crime, Drama, Romance
+273. Der Himmel über Berlin (1987)
+Drama, Fantasy, Romance
+274. It Happened One Night (1934)
+Comedy, Romance
+275. Paper Moon (1973)
+Comedy, Crime, Drama
+276. Song of the Sea (2014)
+Animation, Adventure, Drama
+277. The Maltese Falcon (1941)
+Film-Noir, Mystery
+278. Trois couleurs: Rouge (1994)
+Drama, Mystery, Romance
+279. The Man Who Shot Liberty Valance (1962)
+Drama, Western
+280. Tenkû no shiro Rapyuta (1986)
+Animation, Adventure, Family
+281. Lagaan: Once Upon a Time in India (2001)
+Adventure, Drama, Musical
+282. Fanny och Alexander (1982)
+Drama
+283. Cat on a Hot Tin Roof (1958)
+Drama
+284. Zindagi Na Milegi Dobara (2011)
+Comedy, Drama
+285. All Quiet on the Western Front (1930)
+Drama, War
+286. Mou gaan dou (2002)
+Crime, Drama, Mystery
+287. Zerkalo (1974)
+Biography, Drama
+288. The Best Years of Our Lives (1946)
+Drama, Romance, War
+289. The Lion in Winter (1968)
+Biography, Drama, History
+290. The Grapes of Wrath (1940)
+Drama, History
+291. Das Cabinet des Dr. Caligari (1920)
+Fantasy, Horror, Mystery
+292. Tropa de Elite (2007)
+Action, Crime, Drama
+293. Anatomy of a Murder (1959)
+Crime, Drama, Mystery
+294. Les quatre cents coups (1959)
+Crime, Drama
+295. Fitzcarraldo (1982)
+Adventure, Drama
+296. Underground (1995)
+Comedy, Drama, War
+297. Les diaboliques (1955)
+Crime, Drama, Horror
+298. Le samouraï (1967)
+Crime, Drama, Mystery
+299. Festen (1998)
+Drama
+300. La leggenda del pianista sull'oceano (1998)
+Drama, Music, Romance
+301. Darbareye Elly (2009)
+Drama, Mystery, Thriller
+302. Kaguyahime no monogatari (2013)
+Animation, Adventure, Drama
+303. Le salaire de la peur (1953)
+Adventure, Drama, Thriller
+304. Bom yeoreum gaeul gyeoul geurigo bom (2003)
+Drama, Romance
+305. Persepolis (2007)
+Animation, Biography, Drama
+306. La battaglia di Algeri (1966)
+Drama, War
+307. Baby (I) (2015)
+Action, Thriller
+308. Kumonosu-jô (1957)
+Drama
+309. Laura (1944)
+Drama, Film-Noir, Mystery
+310. Airlift (2016)
+Drama, History
+311. Yeopgijeogin geunyeo (2001)
+Comedy, Drama, Romance
+312. Cabiriaeui Baam (1957)
+Drama
+313. Okuribito (2008)
+Drama, Music
+314. La Strada (1954)
+Drama
+315. Brief Encounter (1945)
+Drama, Romance
+316. Crna macka, beli macor (1998)
+Comedy, Crime, Romance
+317. Tropa de Elite 2: O Inimigo Agora é Outro (2010)
+Action, Crime, Drama
+318. Barfi! (2012)
+Comedy, Drama, Romance
+319. Kakushi-toride no san-akunin (1958)
+Adventure, Drama
+320. La Grande Illusion (1937)
+Drama, War
+321. Kind Hearts and Coronets (1949)
+Comedy, Crime
+322. Bin-jip (2004)
+Crime, Drama, Romance
+323. Taegukgi hwinalrimyeo (2004)
+Action, Drama, War
+324. Lage Raho Munna Bhai (2006)
+Comedy, Drama, Fantasy
+325. Deadpool (2016)
+Action, Adventure, Comedy
+326. Call Me by Your Name (2017)
+Drama, Romance
+327. Dunkirk (2017)
+Action, Drama, History
+328. Wonder (I) (2017)
+Drama, Family
+329. Isle of Dogs (2018)
+Animation, Adventure, Comedy
+330. Geu-nyeo (2013)
+Drama, Romance, Sci-Fi
+331. X-Men: Days of Future Past (2014)
+Action, Adventure, Sci-Fi
+332. Star Wars: Episode VII - The Force Awakens (2015)
+Action, Adventure, Fantasy
+333. The Incredibles (2004)
+Animation, Action, Adventure
+334. The Revenant (2015)
+Action, Adventure, Drama
+335. Sin City (2005)
+Crime, Thriller
+336. The Martian (2015)
+Adventure, Drama, Sci-Fi
+337. Jutopia (2016)
+Animation, Adventure, Comedy
+338. Jaws (1975)
+Adventure, Drama, Thriller
+339. Mulholland Dr. (2001)
+Drama, Mystery, Thriller
+340. The Imitation Game (2014)
+Biography, Drama, Thriller
+341. Casino Royale (2006)
+Action, Adventure, Thriller
+342. Pirates of the Caribbean: The Curse of the Black Pearl (2003)
+Action, Adventure, Fantasy
+343. Beauty and the Beast (1991)
+Animation, Family, Fantasy
+344. Black Swan (2010)
+Drama, Thriller
+345. The Terminator (1984)
+Action, Sci-Fi
+346. Star Trek: The Beginning (2009)
+Action, Adventure, Sci-Fi
+347. The Exorcist (1973)
+Horror
+348. Groundhog Day (1993)
+Comedy, Fantasy, Romance
+349. The Sound of Music (1965)
+Biography, Drama, Family
+350. The Nightmare Before Christmas (1993)
+Animation, Family, Fantasy
+351. The Perks of Being a Wallflower (2012)
+Drama, Romance
+352. Ppa Ppi Yong (1973)
+Biography, Crime, Drama
+353. The Wizard of Oz (1939)
+Adventure, Family, Fantasy
+354. Aladdin (1992)
+Animation, Adventure, Comedy
+355. Dallas Buyers Club (2013)
+Biography, Drama
+356. The King's Speech (2010)
+Biography, Drama, History
+357. Mystic River (2003)
+Crime, Drama, Mystery
+358. Slumdog Millionaire (2008)
+Drama, Romance
+359. Rosemary's Baby (1968)
+Drama, Horror
+360. Ratatouille (2007)
+Animation, Adventure, Comedy
+361. Twelve Monkeys (1995)
+Mystery, Sci-Fi, Thriller
+362. Kill Bill: Vol. 2 (2004)
+Action, Crime, Thriller
+363. The Pursuit of Happyness (2006)
+Biography, Drama
+364. Big Fish (2003)
+Adventure, Drama, Fantasy
+365. The Graduate (1967)
+Comedy, Drama, Romance
+366. Magnolia (1999)
+Drama
+367. Rain Man (1988)
+Drama
+368. The Bourne Ultimatum (2007)
+Action, Mystery, Thriller
+369. Scent of a Woman (1992)
+Drama
+370. Fiddler on the Roof (1971)
+Drama, Family, Musical
+371. Dances with Wolves (1990)
+Adventure, Drama, Western
+372. Blood Diamond (2006)
+Adventure, Drama, Thriller
+373. Young Frankenstein (1974)
+Comedy
+374. This Is Spinal Tap (1984)
+Comedy, Music
+375. Brazil (1985)
+Drama, Sci-Fi
+376. Planet of the Apes (1968)
+Adventure, Sci-Fi
+377. All the President's Men (1976)
+Biography, Drama, History
+378. Dogville (2003)
+Crime, Drama
+379. Doctor Zhivago (1965)
+Drama, Romance, War
+380. Short Term 12 (2013)
+Drama
+381. Bound by Honor (1993)
+Crime, Drama
+382. Serbuan maut 2: Berandal (2014)
+Action, Crime, Thriller
+383. Sling Blade (1996)
+Drama
+384. Cinderella Man (2005)
+Biography, Drama, Sport
+385. JFK (1991)
+Drama, History, Thriller
+386. Dog Day Afternoon (1975)
+Biography, Crime, Drama
+387. The Iron Giant (1999)
+Animation, Action, Adventure
+388. Annie Hall (1977)
+Comedy, Romance
+389. Per un pugno di dollari (1964)
+Western
+390. High Noon (1952)
+Action, Drama, Thriller
+391. Kôkaku Kidôtai (1995)
+Animation, Action, Crime
+392. The Hustler (1961)
+Drama, Sport
+393. The Searchers (1956)
+Adventure, Drama, Western
+394. Nosferatu (1922)
+Fantasy, Horror
+395. Rio Bravo (1959)
+Action, Drama, Western
+396. In the Heat of the Night (1967)
+Crime, Drama, Mystery
+397. A Streetcar Named Desire (1951)
+Drama
+398. Dawn of the Dead (1978)
+Horror, Thriller
+399. To Have and Have Not (1944)
+Adventure, Comedy, Romance
+400. Yip Man (2008)
+Action, Biography, Drama
+401. Patton (1970)
+Biography, Drama, War
+402. Pink Floyd: The Wall (1982)
+Animation, Drama, Fantasy
+403. Sing Street (2016)
+Comedy, Drama, Music
+404. The Manchurian Candidate (1962)
+Drama, Thriller
+405. A Christmas Story (1983)
+Comedy, Family
+406. Dancer in the Dark (2000)
+Crime, Drama, Musical
+407. Rope (1948)
+Crime, Drama, Mystery
+408. Charade (1963)
+Comedy, Mystery, Romance
+409. East of Eden (1955)
+Drama
+410. Harold and Maude (1971)
+Comedy, Drama, Romance
+411. The Night of the Hunter (1955)
+Crime, Drama, Film-Noir
+412. The Big Sleep (1946)
+Crime, Film-Noir, Mystery
+413. Being There (1979)
+Comedy, Drama
+414. The Wild Bunch (1969)
+Action, Adventure, Western
+415. Manhattan (1979)
+Comedy, Drama, Romance
+416. The Straight Story (1999)
+Biography, Drama
+417. Trois couleurs: Bleu (1993)
+Drama, Music, Mystery
+418. Jamsujong gwa nabi (2007)
+Biography, Drama
+419. Notorious (1946)
+Drama, Film-Noir, Romance
+420. Mar adentro (I) (2004)
+Biography, Drama, Romance
+421. Strangers on a Train (1951)
+Crime, Film-Noir, Thriller
+422. My Name Is Khan (2010)
+Drama
+423. Who's Afraid of Virginia Woolf? (1966)
+Drama
+424. Arsenic and Old Lace (1944)
+Comedy, Crime, Thriller
+425. The Philadelphia Story (1940)
+Comedy, Romance
+426. The Adventures of Robin Hood (1938)
+Action, Adventure, Romance
+427. Hable con ella (2002)
+Drama, Mystery, Romance
+428. Sleuth (1972)
+Mystery, Thriller
+429. Michigo sipeul ttae (2004)
+Drama, Romance
+430. Vozvrashchenie (2003)
+Drama, Mystery, Thriller
+431. The Killing (1956)
+Crime, Drama, Film-Noir
+432. Aguirre, der Zorn Gottes (1972)
+Adventure, Biography, Drama
+433. Mimi wo sumaseba (1995)
+Animation, Drama, Family
+434. Secrets & Lies (1996)
+Drama
+435. His Girl Friday (1940)
+Comedy, Drama, Romance
+436. Kagemusha (1980)
+Drama, History, War
+437. Le charme discret de la bourgeoisie (1972)
+Comedy
+438. Bringing Up Baby (1938)
+Comedy, Family, Romance
+439. Crimes and Misdemeanors (1989)
+Comedy, Drama
+440. Stalag 17 (1953)
+Comedy, Drama, War
+441. Harvey (1950)
+Comedy, Drama, Fantasy
+442. C.R.A.Z.Y. (2005)
+Comedy, Drama
+443. Au revoir les enfants (1987)
+Drama, War
+444. Bronenosets Potemkin (1925)
+Drama, History
+445. Bajrangi Bhaijaan (2015)
+Action, Comedy, Drama
+446. Vals Im Bashir (2008)
+Animation, Biography, Drama
+447. Kal Ho Naa Ho (2003)
+Comedy, Drama, Romance
+448. Duck Soup (1933)
+Comedy, Musical, War
+449. A Night at the Opera (1935)
+Comedy, Music, Musical
+450. The Lost Weekend (1945)
+Drama, Film-Noir
+451. Special Chabbis (2013)
+Crime, Thriller
+452. No Man's Land (I) (2001)
+Drama, War
+453. Central do Brasil (1998)
+Drama
+454. G.O.R.A. (2004)
+Adventure, Comedy, Sci-Fi
+455. Vizontele (2001)
+Comedy, Drama
+456. Deadpool 2 (2018)
+Action, Adventure, Comedy
+457. Thor: Ragnarok (2017)
+Action, Adventure, Comedy
+458. The Breakfast Club (1985)
+Comedy, Drama
+459. Iron Man (2008)
+Action, Adventure, Sci-Fi
+460. True Romance (1993)
+Crime, Drama, Romance
+461. Arrival (II) (2016)
+Drama, Mystery, Sci-Fi
+462. Boogie Nights (1997)
+Drama
+463. Captain Fantastic (2016)
+Comedy, Drama
+464. Harry Potter and the Prisoner of Azkaban (2004)
+Adventure, Family, Fantasy
+465. Hot Fuzz (2007)
+Action, Comedy
+466. The Notebook (2004)
+Drama, Romance
+467. Edge of Tomorrow (2014)
+Action, Adventure, Sci-Fi
+468. E.T. the Extra-Terrestrial (1982)
+Family, Sci-Fi
+469. The Hobbit: An Unexpected Journey (2012)
+Adventure, Family, Fantasy
+470. The Blues Brothers (1980)
+Adventure, Comedy, Crime
+471. Almost Famous (2000)
+Adventure, Comedy, Drama
+472. Straight Outta Compton (2015)
+Biography, Drama, History
+473. Walk the Line (2005)
+Biography, Drama, Music
+474. Shrek (2001)
+Animation, Adventure, Comedy
+475. Nightcrawler (2014)
+Crime, Drama, Thriller
+476. Children of Men (2006)
+Drama, Sci-Fi, Thriller
+477. Shaun of the Dead (2004)
+Comedy, Horror
+478. Serenity (2005)
+Action, Adventure, Sci-Fi
+479. In Bruges (2008)
+Comedy, Crime, Drama
+480. The Untouchables (1987)
+Crime, Drama, Thriller
+481. Edward Scissorhands (1990)
+Drama, Fantasy, Romance
+482. The Hobbit: The Desolation of Smaug (2013)
+Adventure, Fantasy
+483. Moon (2009)
+Drama, Mystery, Sci-Fi
+484. Paddington 2 (2017)
+Animation, Adventure, Comedy
+485. Mr. Nobody (2009)
+Drama, Fantasy, Romance
+486. Life of Pi (2012)
+Adventure, Drama, Fantasy
+487. Boyhood (I) (2014)
+Drama
+488. The Bourne Identity (2002)
+Action, Mystery, Thriller
+489. District 9 (2009)
+Sci-Fi, Thriller
+490. Hunt for the Wilderpeople (2016)
+Adventure, Comedy, Drama
+491. The Wrestler (2008)
+Drama, Sport
+492. Spartacus (1960)
+Adventure, Biography, Drama
+493. The Remains of the Day (1993)
+Drama, Romance
+494. The Outlaw Josey Wales (1976)
+Western
+495. Toy Story 2 (1999)
+Animation, Adventure, Comedy
+496. La montaña sagrada (1973)
+Adventure, Drama, Fantasy
+497. Midnight Cowboy (1969)
+Drama
+498. Key Largo (1948)
+Action, Crime, Drama
+499. Do the Right Thing (1989)
+Comedy, Drama
+500. The Fall (2006)
+Adventure, Comedy, Drama
+501. Låt den rätte komma in (2008)
+Drama, Horror, Romance
+502. Wa ho jang ryong (2000)
+Action, Adventure, Fantasy
+503. The Man from Earth (2007)
+Drama, Fantasy, Sci-Fi
+504. The Ten Commandments (1956)
+Adventure, Drama
+505. My Fair Lady (1964)
+Drama, Family, Musical
+506. Carlito's Way (1993)
+Crime, Drama, Thriller
+507. Night of the Living Dead (1968)
+Horror
+508. Ying xiong (2002)
+Action, Adventure, History
+509. The Artist (I) (2011)
+Comedy, Drama, Romance
+510. Before Midnight (2013)
+Drama, Romance
+511. Pâfekuto burû (1997)
+Animation, Horror, Mystery
+512. The Right Stuff (1983)
+Adventure, Biography, Drama
+513. The Insider (1999)
+Biography, Drama, Thriller
+514. Ed Wood (1994)
+Biography, Comedy, Drama
+515. Bonnie and Clyde (1967)
+Action, Biography, Crime
+516. Glory (1989)
+Biography, Drama, History
+517. King Kong (1933)
+Adventure, Horror, Sci-Fi
+518. Freaks (1932)
+Drama, Horror
+519. Amour (2012)
+Drama, Romance
+520. Frankenstein (1931)
+Drama, Horror, Sci-Fi
+521. Days of Heaven (1978)
+Drama, Romance
+522. Naked (1993)
+Comedy, Drama
+523. Badlands (1973)
+Crime, Drama
+524. Majo no takkyûbin (1989)
+Animation, Adventure, Drama
+525. The Conversation (1974)
+Drama, Mystery, Thriller
+526. Stagecoach (1939)
+Adventure, Western
+527. I, Daniel Blake (2016)
+Drama
+528. À bout de souffle (1960)
+Crime, Drama
+529. The Man Who Would Be King (1975)
+Adventure
+530. Un prophète (2009)
+Crime, Drama
+531. My Left Foot: The Story of Christy Brown (1989)
+Biography, Drama
+532. Letters from Iwo Jima (2006)
+Drama, History, War
+533. Once (2007)
+Drama, Music, Romance
+534. Breaking the Waves (1996)
+Drama
+535. Chugyeogja (2008)
+Action, Crime, Thriller
+536. The African Queen (1951)
+Adventure, Drama, Romance
+537. Lilja 4-ever (2002)
+Crime, Drama
+538. The Killing Fields (1984)
+Biography, Drama, History
+539. A Man for All Seasons (1966)
+Biography, Drama, History
+540. Bride of Frankenstein (1935)
+Drama, Horror, Sci-Fi
+541. Once Were Warriors (1994)
+Crime, Drama
+542. Hannah and Her Sisters (1986)
+Comedy, Drama
+543. Batman: Mask of the Phantasm (1993)
+Animation, Action, Adventure
+544. Todo sobre mi madre (1999)
+Drama
+545. Jûbê ninpûchô (1993)
+Animation, Action, Adventure
+546. Shadow of a Doubt (1943)
+Thriller
+547. The Lady Vanishes (1938)
+Mystery, Thriller
+548. Amarcord (1973)
+Comedy, Drama
+549. Les choristes (2004)
+Drama, Music
+550. Miracle on 34th Street (1947)
+Comedy, Drama, Family
+551. Lat sau san taam (1992)
+Action, Crime, Thriller
+552. Cowboy Bebop: Tengoku no tobira (2001)
+Animation, Action, Crime
+553. Jules et Jim (1962)
+Drama, Romance
+554. 4 luni, 3 saptamâni si 2 zile (2007)
+Drama
+555. Dip huet seung hung (1989)
+Action, Crime, Drama
+556. Nueve reinas (2000)
+Crime, Drama, Thriller
+557. Veer-Zaara (2004)
+Drama, Family, Musical
+558. Jab We Met (2007)
+Comedy, Drama, Romance
+559. English Vinglish (2012)
+Comedy, Drama, Family
+560. BlacKkKlansman (2018)
+Biography, Comedy, Crime
+561. Predator (1987)
+Action, Sci-Fi, Thriller
+562. Mary Poppins (1964)
+Comedy, Family, Fantasy
+563. Halloween (1978)
+Horror, Thriller
+564. The Goonies (1985)
+Adventure, Comedy, Family
+565. Wind River (2017)
+Crime, Drama, Mystery
+566. Tombstone (1993)
+Action, Biography, Drama
+567. Titanic (1997)
+Drama, Romance
+568. The Girl with the Dragon Tattoo (2011)
+Crime, Drama, Mystery
+569. Ocean's Eleven (2001)
+Crime, Thriller
+570. Captain America: Civil War (2016)
+Action, Adventure, Sci-Fi
+571. The Hateful Eight (2015)
+Crime, Drama, Mystery
+572. Avatar (2009)
+Action, Adventure, Fantasy
+573. Rogue One (2016)
+Action, Adventure, Sci-Fi
+574. Captain America: The Winter Soldier (2014)
+Action, Adventure, Sci-Fi
+575. About Time (I) (2013)
+Comedy, Drama, Fantasy
+576. The Big Short (2015)
+Biography, Comedy, Drama
+577. Ferris Bueller's Day Off (1986)
+Comedy
+578. Apocalypto (2006)
+Action, Adventure, Drama
+579. Pride & Prejudice (2005)
+Drama, Romance
+580. Ghost Busters (1984)
+Action, Comedy, Fantasy
+581. Atonement (2007)
+Drama, Mystery, Romance
+582. A Bronx Tale (1993)
+Crime, Drama
+583. Gajang Ttatteutan Saek, Beullu (2013)
+Drama, Romance
+584. Moonrise Kingdom (2012)
+Adventure, Comedy, Drama
+585. Beasts of No Nation (2015)
+Drama, War
+586. Willy Wonka & the Chocolate Factory (1971)
+Family, Fantasy, Musical
+587. Drive (I) (2011)
+Crime, Drama
+588. The Game (1997)
+Drama, Mystery, Thriller
+589. Skyfall (2012)
+Action, Adventure, Thriller
+590. Hidden Figures (2016)
+Biography, Drama, History
+591. Lost in Translation (2003)
+Drama
+592. Office Space (1999)
+Comedy
+593. American Gangster (2007)
+Biography, Crime, Drama
+594. Män som hatar kvinnor (2009)
+Crime, Drama, Mystery
+595. Big Hero 6 (2014)
+Animation, Action, Adventure
+596. Misery (1990)
+Crime, Drama, Thriller
+597. The Curious Case of Benjamin Button (2008)
+Drama, Fantasy, Romance
+598. Manchester by the Sea (2016)
+Drama
+599. The Fault in Our Stars (2014)
+Drama, Romance
+600. Taken (I) (2008)
+Action, Crime, Thriller
+601. Airplane! (1980)
+Comedy
+602. Crash (I) (2004)
+Crime, Drama, Thriller
+603. Rapunjel (2010)
+Animation, Adventure, Comedy
+604. What's Eating Gilbert Grape (1993)
+Drama
+605. The Last of the Mohicans (1992)
+Action, Adventure, Drama
+606. Cast Away (2000)
+Adventure, Drama, Romance
+607. Back to the Future Part II (1989)
+Adventure, Comedy, Sci-Fi
+608. The Sandlot (1993)
+Comedy, Drama, Family
+609. The Fugitive (1993)
+Action, Crime, Drama
+610. Being John Malkovich (1999)
+Comedy, Drama, Fantasy
+611. Remember the Titans (2000)
+Biography, Drama, Sport
+612. O Brother, Where Art Thou? (2000)
+Adventure, Comedy, Crime
+613. The Count of Monte Cristo (2002)
+Action, Adventure, Drama
+614. Little Miss Sunshine (2006)
+Comedy, Drama
+615. Blazing Saddles (1974)
+Comedy, Western
+616. Loving Vincent (2017)
+Animation, Biography, Crime
+617. The Fighter (I) (2010)
+Biography, Drama, Sport
+618. The Magnificent Seven (1960)
+Action, Adventure, Western
+619. The Boondock Saints (1999)
+Action, Crime, Thriller
+620. The Lego Movie (2014)
+Animation, Action, Adventure
+621. Blue Velvet (1986)
+Drama, Mystery, Thriller
+622. Gattaca (1997)
+Drama, Sci-Fi, Thriller
+623. Mississippi Burning (1988)
+Crime, Drama, History
+624. Me and Earl and the Dying Girl (2015)
+Comedy, Drama
+625. Captain Phillips (2013)
+Biography, Drama, Thriller
+626. Fantastic Mr. Fox (2009)
+Animation, Adventure, Comedy
+627. The Color Purple (1985)
+Drama
+628. Kubo and the Two Strings (2016)
+Animation, Action, Adventure
+629. Donnie Brasco (1997)
+Biography, Crime, Drama
+630. How to Train Your Dragon 2 (2014)
+Animation, Action, Adventure
+631. Changeling (2008)
+Biography, Crime, Drama
+632. Kung fu (2004)
+Action, Comedy, Crime
+633. The Boy in the Striped Pyjamas (2008)
+Drama, War
+634. Serpico (1973)
+Biography, Crime, Drama
+635. The Bourne Supremacy (2004)
+Action, Thriller
+636. Empire of the Sun (1987)
+Drama, History, War
+637. Boyz n the Hood (1991)
+Crime, Drama
+638. La migliore offerta (2013)
+Crime, Drama, Mystery
+639. Ang-ma-reul bo-at-da (2010)
+Action, Drama, Horror
+640. The King of Comedy (1982)
+Comedy, Crime, Drama
+641. Kramer vs. Kramer (1979)
+Drama
+642. Perfetti sconosciuti (2016)
+Comedy, Drama
+643. Clerks (1994)
+Comedy
+644. Rebel Without a Cause (1955)
+Drama
+645. Awakenings (1990)
+Biography, Drama
+646. Der Name der Rose (1986)
+Crime, Drama, Mystery
+647. Dirty Harry (1971)
+Action, Crime, Thriller
+648. Zwartboek (2006)
+Drama, Thriller, War
+649. Ordinary People (1980)
+Drama
+650. Miller's Crossing (1990)
+Crime, Drama, Thriller
+651. Evil Dead II (1987)
+Comedy, Horror
+652. October Sky (1999)
+Biography, Drama, Family
+653. Lucky Number Slevin (2006)
+Crime, Drama, Mystery
+654. The French Connection (1971)
+Action, Crime, Drama
+655. La grande bellezza (2013)
+Drama
+656. Glengarry Glen Ross (1992)
+Crime, Drama, Mystery
+657. Pride (I) (2014)
+Biography, Comedy, Drama
+658. Le Petit Prince (2015)
+Animation, Adventure, Drama
+659. The Last Emperor (1987)
+Biography, Drama, History
+660. The Dirty Dozen (1967)
+Action, Adventure, War
+661. The Day of the Jackal (1973)
+Crime, Drama, Thriller
+662. Hamlet (1996)
+Drama
+663. Happiness (1998)
+Comedy, Drama
+664. Abre los ojos (1997)
+Drama, Mystery, Romance
+665. The Broken Circle Breakdown (2012)
+Drama, Music, Romance
+666. Waking Life (2001)
+Animation, Drama, Fantasy
+667. Forushande (2016)
+Drama, Thriller
+668. Ajeossi (2010)
+Action, Crime, Thriller
+669. The Longest Day (1962)
+Action, Drama, History
+670. The Verdict (1982)
+Drama
+671. Belle de jour (1967)
+Drama
+672. The Quiet Man (1952)
+Comedy, Drama, Romance
+673. Cabaret (1972)
+Drama, Musical
+674. Fantasia (1940)
+Animation, Family, Fantasy
+675. Kaze tachinu (2013)
+Animation, Biography, Drama
+676. Das weiße Band - Eine deutsche Kindergeschichte (2009)
+Drama, History, Mystery
+677. Death Note (2006)
+Crime, Drama, Fantasy
+678. The Day the Earth Stood Still (1951)
+Drama, Sci-Fi
+679. Repulsion (1965)
+Drama, Horror, Thriller
+680. Guess Who's Coming to Dinner (1967)
+Comedy, Drama
+681. The 39 Steps (1935)
+Mystery, Thriller
+682. South Park: Bigger, Longer & Uncut (1999)
+Animation, Comedy, Fantasy
+683. Withnail & I (1987)
+Comedy, Drama
+684. Invasion of the Body Snatchers (1956)
+Drama, Horror, Sci-Fi
+685. Madeo (2009)
+Crime, Drama, Mystery
+686. Zulu (1964)
+Drama, History, War
+687. Diarios de motocicleta (2004)
+Adventure, Biography, Drama
+688. Hedwig and the Angry Inch (2001)
+Comedy, Drama, Music
+689. Night on Earth (1991)
+Comedy, Drama
+690. Spoorloos (1988)
+Mystery, Thriller
+691. Toki o kakeru shôjo (2006)
+Animation, Adventure, Comedy
+692. In America (2002)
+Drama
+693. Kurenai no buta (1992)
+Animation, Adventure, Comedy
+694. Dabba (2013)
+Drama, Romance
+695. La double vie de Véronique (1991)
+Drama, Fantasy, Music
+696. The World's Fastest Indian (2005)
+Biography, Drama, Sport
+697. Down by Law (1986)
+Comedy, Crime, Drama
+698. Bir Zamanlar Anadolu'da (2011)
+Crime, Drama
+699. Le passé (2013)
+Drama, Mystery
+700. Ondskan (2003)
+Drama
+701. Les triplettes de Belleville (2003)
+Animation, Comedy, Drama
+702. Zelig (1983)
+Comedy
+703. Efter brylluppet (2006)
+Drama
+704. Adams æbler (2005)
+Comedy, Crime, Drama
+705. Love and Death (1975)
+Comedy, War
+706. Kokuhaku (2010)
+Drama, Thriller
+707. Auf der anderen Seite (2007)
+Drama
+708. Vicky Donor (2012)
+Comedy, Romance
+709. The Greatest Showman (2017)
+Biography, Drama, Musical
+710. A Quiet Place (2018)
+Drama, Horror, Sci-Fi
+711. Guardians of the Galaxy Vol. 2 (2017)
+Action, Adventure, Comedy
+712. Get Out (I) (2017)
+Horror, Mystery, Thriller
+713. Deliverance (1972)
+Adventure, Drama, Thriller
+714. Ex Machina (2014)
+Drama, Mystery, Sci-Fi
+715. Love, Simon (2018)
+Comedy, Drama, Romance
+716. Kingsman: Secret Agent (2014)
+Action, Adventure, Comedy
+717. Only the Brave (2017)
+Biography, Drama
+718. Harry Potter and the Goblet of Fire (2005)
+Adventure, Family, Fantasy
+719. The Hangover (2009)
+Comedy
+720. Stardust (2007)
+Adventure, Family, Fantasy
+721. X: First Class (2011)
+Action, Adventure, Sci-Fi
+722. The Blind Side (2009)
+Biography, Drama, Sport
+723. 300 (2006)
+Action, Fantasy
+724. Dazed and Confused (1993)
+Comedy
+725. Birdman or (The Unexpected Virtue of Ignorance) (2014)
+Comedy, Drama
+726. Harry Potter and the Deathly Hallows: Part 1 (2010)
+Adventure, Family, Fantasy
+727. Le cinquième élément (1997)
+Action, Adventure, Sci-Fi
+728. Sosyeol neteuwokeu (2010)
+Biography, Drama
+729. Zombieland (2009)
+Adventure, Comedy, Horror
+730. Fear and Loathing in Las Vegas (1998)
+Adventure, Comedy, Drama
+731. Wreck-It Ralph (2012)
+Animation, Adventure, Comedy
+732. Silver Linings Playbook (2012)
+Comedy, Drama, Romance
+733. Black Hawk Down (2001)
+Drama, History, War
+734. The Warriors (1979)
+Action, Crime, Thriller
+735. Zodiac (2007)
+Crime, Drama, Mystery
+736. Brokeback Mountain (2005)
+Drama, Romance
+737. Argo (2012)
+Biography, Drama, Thriller
+738. Training Day (2001)
+Crime, Drama, Thriller
+739. Gravity (2013)
+Drama, Sci-Fi, Thriller
+740. Coraline (2009)
+Animation, Drama, Fantasy
+741. Star Trek: Into Darkness (2013)
+Action, Adventure, Sci-Fi
+742. Gone Baby Gone (2007)
+Crime, Drama, Mystery
+743. Minority Report (2002)
+Action, Adventure, Crime
+744. The Theory of Everything (2014)
+Biography, Drama, Romance
+745. Road to Perdition (2002)
+Crime, Drama, Thriller
+746. The Machinist (2004)
+Drama, Thriller
+747. Midnight in Paris (2011)
+Comedy, Fantasy, Romance
+748. Despicable Me (2010)
+Animation, Comedy, Family
+749. A Few Good Men (1992)
+Drama, Thriller
+750. Man on Fire (2004)
+Action, Crime, Drama
+751. Primal Fear (1996)
+Crime, Drama, Mystery
+752. The Last Samurai (2003)
+Action, Drama, History
+753. Sense and Sensibility (1995)
+Drama, Romance
+754. Adaptation. (2002)
+Comedy, Drama
+755. Nabi hyogwa (2004)
+Sci-Fi, Thriller
+756. Breakfast at Tiffany's (1961)
+Comedy, Drama, Romance
+757. Rushmore (1998)
+Comedy, Drama
+758. (500) Days of Summer (2009)
+Comedy, Drama, Romance
+759. Y tu mamá también (2001)
+Adventure, Comedy, Drama
+760. Close Encounters of the Third Kind (1977)
+Drama, Sci-Fi
+761. Who Framed Roger Rabbit (1988)
+Animation, Adventure, Comedy
+762. First Blood (1982)
+Action, Adventure
+763. Fried Green Tomatoes (1991)
+Drama
+764. Goldfinger (1964)
+Action, Adventure, Thriller
+765. The Birds (1963)
+Drama, Horror, Mystery
+766. As Good as It Gets (1997)
+Comedy, Drama, Romance
+767. Batoru rowaiaru (2000)
+Adventure, Drama, Sci-Fi
+768. Billy Elliot (2000)
+Drama, Music, Romance
+769. 3:10 to Yuma (2007)
+Action, Adventure, Crime
+770. Dead Man's Shoes (2004)
+Crime, Drama, Thriller
+771. Dark City (1998)
+Mystery, Sci-Fi, Thriller
+772. Philadelphia (1993)
+Drama
+773. Enter the Dragon (1973)
+Action, Crime, Drama
+774. Eastern Promises (2007)
+Crime, Drama, Mystery
+775. Flipped (I) (2010)
+Comedy, Drama, Romance
+776. The Producers (1967)
+Comedy, Music
+777. Finding Neverland (2004)
+Biography, Drama, Family
+778. Star Trek: The Wrath of Khan (1982)
+Action, Adventure, Sci-Fi
+779. 50/50 (2011)
+Comedy, Drama, Romance
+780. 21 Grams (2003)
+Crime, Drama, Thriller
+781. A Little Princess (1995)
+Drama, Family, Fantasy
+782. Gake no ue no Ponyo (2008)
+Animation, Adventure, Comedy
+783. Shane (1953)
+Drama, Western
+784. Malcolm X (1992)
+Biography, Drama, History
+785. Le violon rouge (1998)
+Drama, Music, Mystery
+786. Giant (1956)
+Drama, Western
+787. The Last King of Scotland (2006)
+Biography, Drama, History
+788. 25th Hour (2002)
+Drama
+789. The Odd Couple (1968)
+Comedy
+790. Dead Man (1995)
+Drama, Fantasy, Western
+791. Blood Simple. (1984)
+Crime, Drama, Thriller
+792. En man som heter Ove (2015)
+Comedy, Drama, Romance
+793. Kelly's Heroes (1970)
+Adventure, Comedy, War
+794. Profondo rosso (1975)
+Horror, Mystery, Thriller
+795. Nebraska (2013)
+Adventure, Comedy, Drama
+796. This Is England (2006)
+Crime, Drama
+797. Detachment (2011)
+Drama
+798. Victoria (II) (2015)
+Crime, Drama, Romance
+799. Ray (I) (2004)
+Biography, Drama, Music
+800. Sabrina (1954)
+Comedy, Drama, Romance
+801. The Station Agent (2003)
+Comedy, Drama
+802. After Hours (1985)
+Comedy, Crime, Drama
+803. Lola rennt (1998)
+Crime, Drama, Sci-Fi
+804. Barton Fink (1991)
+Comedy, Drama, Thriller
+805. Mysterious Skin (2004)
+Drama, Mystery, Thriller
+806. Papurika (2006)
+Animation, Adventure, Crime
+807. Watership Down (1978)
+Animation, Adventure, Drama
+808. Where Eagles Dare (1968)
+Action, Adventure, War
+809. Byôsoku 5 senchimêtoru (2007)
+Animation, Drama, Romance
+810. From Here to Eternity (1953)
+Drama, Romance, War
+811. Short Cuts (1993)
+Comedy, Drama
+812. Le locataire (1976)
+Drama, Thriller
+813. Good Bye Lenin! (2003)
+Comedy, Drama, Romance
+814. Engagement (2004)
+Drama, Mystery, Romance
+815. A Hard Day's Night (1964)
+Comedy, Music, Musical
+816. Shine (1996)
+Biography, Drama, Music
+817. Celda 211 (2009)
+Action, Crime, Drama
+818. Frost/Nixon (2008)
+Biography, Drama, History
+819. Boksuneun naui geot (2002)
+Action, Drama, Thriller
+820. Henry V (1989)
+Action, Biography, Drama
+821. Delicatessen (1991)
+Comedy, Crime
+822. Peeping Tom (1960)
+Drama, Horror, Thriller
+823. Jeux d'enfants (2003)
+Comedy, Drama, Romance
+824. Giù la testa (1971)
+War, Western
+825. Control (2007)
+Biography, Drama, Music
+826. Huo yuanjia (2006)
+Action, Biography, Drama
+827. Das Experiment (2001)
+Drama, Thriller
+828. Trois couleurs: Blanc (1994)
+Comedy, Drama, Romance
+829. The Secret of Kells (2009)
+Animation, Adventure, Family
+830. The Visitor (I) (2007)
+Drama
+831. The Purple Rose of Cairo (1985)
+Comedy, Fantasy, Romance
+832. Interstate 60: Episodes of the Road (2002)
+Adventure, Comedy, Drama
+833. Il postino (1994)
+Biography, Comedy, Drama
+834. Le dîner de cons (1998)
+Comedy
+835. Vampire Hunter D: Bloodlust (2000)
+Animation, Action, Adventure
+836. The Muppet Christmas Carol (1992)
+Comedy, Drama, Family
+837. Les invasions barbares (2003)
+Comedy, Crime, Drama
+838. Upgrade (2018)
+Action, Horror, Sci-Fi
+839. Ready Player One (2018)
+Action, Adventure, Sci-Fi
+840. Sicario (2015)
+Action, Crime, Drama
+841. Harry Potter and the Sorcerer's Stone (2001)
+Adventure, Family, Fantasy
+842. Baby Driver (2017)
+Action, Crime, Drama
+843. Watchmen (2009)
+Action, Drama, Mystery
+844. Moana (I) (2016)
+Animation, Adventure, Comedy
+845. Superbad (2007)
+Comedy
+846. Les Misérables (2012)
+Drama, History, Musical
+847. The Town (2010)
+Crime, Drama, Thriller
+848. American Psycho (2000)
+Crime, Drama
+849. Animal House (1978)
+Comedy
+850. Phantom Thread (2017)
+Drama, Romance
+851. Love Actually (2003)
+Comedy, Drama, Romance
+852. Sherlock Holmes (2009)
+Action, Adventure, Crime
+853. Hell or High Water (II) (2016)
+Action, Crime, Drama
+854. Fury (2014)
+Action, Drama, War
+855. Harry Potter and the Half-Blood Prince (2009)
+Adventure, Family, Fantasy
+856. Kick-Ass (2010)
+Action, Comedy
+857. The Hunt for Red October (1990)
+Action, Adventure, Thriller
+858. Traffic (2000)
+Crime, Drama, Thriller
+859. Inside Man (2006)
+Crime, Drama, Mystery
+860. Interview with the Vampire: The Vampire Chronicles (1994)
+Drama, Horror
+861. Gifted (2017)
+Drama
+862. 28 Days Later... (2002)
+Drama, Horror, Sci-Fi
+863. Mulan (1998)
+Animation, Adventure, Family
+864. The Brave (2010)
+Adventure, Drama, Western
+865. What We Do in the Shadows (2014)
+Comedy, Horror
+866. Star Wars: Episode III - Revenge of the Sith (2005)
+Action, Adventure, Fantasy
+867. Saw (2004)
+Horror, Mystery, Thriller
+868. Creed (2015)
+Drama, Sport
+869. Lo imposible (2012)
+Drama, History, Thriller
+870. Kiss Kiss Bang Bang (2005)
+Action, Comedy, Crime
+871. The Florida Project (2017)
+Drama
+872. The Godfather: Part III (1990)
+Crime, Drama
+873. Lolita (1962)
+Crime, Drama, Romance
+874. Moneyball (2011)
+Biography, Drama, Sport
+875. The Big Sick (2017)
+Comedy, Drama, Romance
+876. The Hurt Locker (2008)
+Drama, History, Thriller
+877. The Little Mermaid (1989)
+Animation, Family, Fantasy
+878. Moulin Rouge! (2001)
+Drama, Musical, Romance
+879. The Reader (2008)
+Drama, Romance
+880. Indiana Jones and the Temple of Doom (1984)
+Action, Adventure
+881. Blow (2001)
+Biography, Crime, Drama
+882. Apollo 13 (I) (1995)
+Adventure, Drama, History
+883. Dawn of the Planet of the Apes (2014)
+Action, Adventure, Drama
+884. Sleepers (1996)
+Crime, Drama, Thriller
+885. Bridge of Spies (2015)
+Drama, History, Thriller
+886. Mad Max 2 (1981)
+Action, Adventure, Sci-Fi
+887. West Side Story (1961)
+Crime, Drama, Musical
+888. United 93 (2006)
+Drama, History, Thriller
+889. The Others (2001)
+Horror, Mystery, Thriller
+890. Serbuan maut (2011)
+Action, Thriller
+891. La piel que habito (2011)
+Drama, Horror, Thriller
+892. The Crow (1994)
+Action, Drama, Fantasy
+893. The Thin Red Line (1998)
+Drama, War
+894. 127 Hours (2010)
+Adventure, Biography, Drama
+895. Tucker and Dale vs Evil (2010)
+Action, Comedy, Horror
+896. Lethal Weapon (1987)
+Action, Crime, Thriller
+897. Kung Fu Panda (2008)
+Animation, Action, Adventure
+898. End of Watch (2012)
+Action, Crime, Drama
+899. Sin nombre (2009)
+Adventure, Crime, Drama
+900. The Illusionist (2006)
+Drama, Mystery, Romance
+901. The Royal Tenenbaums (2001)
+Comedy, Drama
+902. Boys Don't Cry (1999)
+Biography, Crime, Drama
+903. Sophie's Choice (1982)
+Drama, Romance
+904. Grindhouse (2007)
+Action, Horror, Thriller
+905. An American Werewolf in London (1981)
+Comedy, Horror
+906. When Harry Met Sally... (1989)
+Comedy, Drama, Romance
+907. Munich (2005)
+Drama, History, Thriller
+908. Hokseongtalchul: Jinhwaui Sijak (2011)
+Action, Drama, Sci-Fi
+909. National Lampoon's Christmas Vacation (1989)
+Comedy
+910. The Jungle Book (1967)
+Animation, Adventure, Family
+911. Match Point (2005)
+Drama, Romance, Thriller
+912. Lost Highway (1997)
+Mystery, Thriller
+913. Die Hard with a Vengeance (1995)
+Action, Adventure, Thriller
+914. Lord of War (2005)
+Crime, Drama, Thriller
+915. Snow White and the Seven Dwarfs (1937)
+Animation, Family, Fantasy
+916. The Piano (1993)
+Drama, Music, Romance
+917. Falling Down (1993)
+Crime, Drama, Thriller
+918. The Abyss (1989)
+Adventure, Drama, Sci-Fi
+919. Seven Pounds (2008)
+Drama, Romance
+920. Army of Darkness (1992)
+Comedy, Horror
+921. Planes, Trains & Automobiles (1987)
+Comedy
+922. Milk (I) (2008)
+Biography, Drama
+923. MASH (1970)
+Comedy, Drama, War
+924. Enemy at the Gates (2001)
+Drama, History, War
+925. El cuerpo (2012)
+Mystery, Thriller
+926. Midnight Express (1978)
+Biography, Crime, Drama
+927. A Fish Called Wanda (1988)
+Comedy, Crime
+928. The Fisher King (1991)
+Comedy, Drama, Fantasy
+929. The Wicker Man (1973)
+Horror, Mystery, Thriller
+930. The Omen (1976)
+Horror
+931. Chaplin (1992)
+Biography, Comedy, Drama
+932. A Single Man (2009)
+Drama, Romance
+933. Robin Hood (1973)
+Animation, Adventure, Comedy
+934. Dangerous Liaisons (1988)
+Drama, Romance
+935. Escape from Alcatraz (1979)
+Biography, Crime, Drama
+936. I Am Sam (2001)
+Drama
+937. Blowup (1966)
+Drama, Mystery, Thriller
+938. The Life of David Gale (2003)
+Crime, Drama, Thriller
+939. Midnight Run (1988)
+Action, Comedy, Crime
+940. The Book Thief (2013)
+Drama, War
+941. Funny Games (1997)
+Crime, Drama, Horror
+942. The Naked Gun: From the Files of Police Squad! (1988)
+Comedy, Crime
+943. Romeo and Juliet (1968)
+Drama, Romance
+944. Stranger Than Fiction (2006)
+Comedy, Drama, Fantasy
+945. Forbidden Planet (1956)
+Action, Adventure, Sci-Fi
+946. Dracula (1931)
+Fantasy, Horror
+947. Hunger (2008)
+Biography, Drama
+948. Le grand bleu (1988)
+Adventure, Drama, Sport
+949. Following (1998)
+Crime, Mystery, Thriller
+950. The Secret of NIMH (1982)
+Animation, Adventure, Drama
+951. The Man Who Wasn't There (2001)
+Crime, Drama
+952. The Time Machine (1960)
+Adventure, Romance, Sci-Fi
+953. Thank You for Smoking (2005)
+Comedy, Drama
+954. Yeonin (2004)
+Action, Adventure, Drama
+955. La môme (2007)
+Biography, Drama, Music
+956. Die Welle (2008)
+Drama, Thriller
+957. Philomena (2013)
+Biography, Drama
+958. The Last Temptation of Christ (1988)
+Drama
+959. High Plains Drifter (1973)
+Mystery, Western
+960. The Player (1992)
+Comedy, Crime, Drama
+961. The Kite Runner (2007)
+Drama
+962. Kari-gurashi no Arietti (2010)
+Animation, Adventure, Family
+963. Volver (I) (2006)
+Comedy, Crime, Drama
+964. Chinjeolhan geumjassi (2005)
+Crime, Drama, Thriller
+965. You Can Count on Me (2000)
+Drama
+966. The Guns of Navarone (1961)
+Action, Adventure, Drama
+967. Hodejegerne (2011)
+Crime, Drama, Thriller
+968. La cité des enfants perdus (1995)
+Fantasy, Sci-Fi
+969. The Hurricane (1999)
+Biography, Drama, Sport
+970. Mustang (2015)
+Drama
+971. Yip Man 2 (2010)
+Action, Drama, Sport
+972. House of Sand and Fog (2003)
+Crime, Drama
+973. Leviafan (2014)
+Crime, Drama
+974. Whale Rider (2002)
+Drama, Family
+975. Jin ling shi san chai (2011)
+Drama, History, Romance
+976. The Many Adventures of Winnie the Pooh (1977)
+Animation, Comedy, Family
+977. The Great Debaters (2007)
+Biography, Drama, Romance
+978. Little Big Man (1970)
+Adventure, Comedy, Drama
+979. Zui quan (1978)
+Action, Comedy
+980. Dalkomhan insaeng (2005)
+Action, Drama
+981. Jûsan-nin no shikaku (2010)
+Action, Adventure, Drama
+982. The Meaning of Life (1983)
+Comedy, Musical
+983. The Muppet Movie (1979)
+Adventure, Comedy, Family
+984. Spellbound (1945)
+Film-Noir, Mystery, Romance
+985. The Sweet Hereafter (1997)
+Drama
+986. Jui kuen II (1994)
+Action, Comedy
+987. Stranger Than Paradise (1984)
+Comedy, Drama
+988. Zatôichi (2003)
+Action, Comedy, Crime
+989. Die Fälscher (2007)
+Crime, Drama, War
+990. Hævnen (2010)
+Drama, Romance
+991. Boy A (2007)
+Drama
+992. And Now for Something Completely Different (1971)
+Comedy
+993. Gangs of New York (2002)
+Crime, Drama
+994. Batman (1989)
+Action, Adventure
+995. Leaving Las Vegas (1995)
+Drama, Romance
+996. Collateral (2004)
+Crime, Drama, Thriller
+997. The Fly (1986)
+Drama, Horror, Sci-Fi
+998. RoboCop (1987)
+Action, Crime, Sci-Fi
+999. My Cousin Vinny (1992)
+Comedy, Crime
+1,000. Ice Age (2002)
+Animation, Adventure, Comedy
